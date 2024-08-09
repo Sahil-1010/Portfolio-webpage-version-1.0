@@ -247,4 +247,8 @@ function toggleTheme() {
       // themeToggleBtn.textContent = 'Switch to Dark Theme';
   }
 }
+function SentLog() {
+  alert("Mail sent to berasahil2004@gmail.com");
+  location.reload();
+}
 
